@@ -19,7 +19,7 @@
     "config": "^1.20.4",
     "connect-livereload": "^0.6.0",
     "download": "^6.2.5",
-    "ejs": "^2.4.2",
+    "ejs": "^3.1.7",
     "express": "^4.13.4",
     "express-ws": "^3.0.0",
     "livereload": "^0.6.3",
