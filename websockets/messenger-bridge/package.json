@@ -20,7 +20,7 @@
     "connect-livereload": "^0.6.0",
     "download": "^6.2.5",
     "ejs": "^2.4.2",
-    "express": "^4.13.4",
+    "express": "^4.21.1",
     "express-ws": "^3.0.0",
     "livereload": "^0.6.3",
     "request": "^2.72.0",
